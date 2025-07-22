@@ -24,7 +24,6 @@ spring:
             - StripPrefix=2
             - AddRequestHeader=X-Custom-Header, Riya
 
-
 eureka:
   client:
     service-url:
